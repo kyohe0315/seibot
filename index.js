@@ -1,4 +1,3 @@
-// index.js
 // Render の Web Service 用 & env から TOKEN を読む最小構成
 
 const { Client, GatewayIntentBits } = require('discord.js');
